@@ -2,11 +2,14 @@
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$" />
+    <file type="web" url="file://$PROJECT_DIR$/../brand-mvc-demo" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../brand-mvc-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../SSM/spring_01_quickstart/pom.xml" />
       </list>
     </option>
   </component>

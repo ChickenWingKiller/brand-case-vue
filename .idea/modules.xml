@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/brand-case.iml" filepath="$PROJECT_DIR$/brand-case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../brand-mvc-demo/brand-mvc-demo.iml" filepath="$PROJECT_DIR$/../brand-mvc-demo/brand-mvc-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SSM/spring_01_quickstart/spring_01_quickstart.iml" filepath="$PROJECT_DIR$/../SSM/spring_01_quickstart/spring_01_quickstart.iml" />
     </modules>
   </component>
 </project>

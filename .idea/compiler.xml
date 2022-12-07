@@ -6,11 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="brand-mvc-demo" />
         <module name="brand-case" />
+        <module name="spring_01_quickstart" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="brand-case" target="8" />
+      <module name="brand-mvc-demo" target="14" />
+      <module name="spring_01_quickstart" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
